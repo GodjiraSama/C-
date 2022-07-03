@@ -1,0 +1,7 @@
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Aluno\Aluno\aluno ivo\obj\Debug\aluno ivo.csproj.AssemblyReference.cache
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Aluno\Aluno\aluno ivo\obj\Debug\aluno ivo.csproj.CoreCompileInputs.cache
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Aluno\Aluno\aluno ivo\bin\Debug\aluno ivo.exe.config
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Aluno\Aluno\aluno ivo\bin\Debug\aluno ivo.exe
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Aluno\Aluno\aluno ivo\bin\Debug\aluno ivo.pdb
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Aluno\Aluno\aluno ivo\obj\Debug\aluno ivo.exe
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Aluno\Aluno\aluno ivo\obj\Debug\aluno ivo.pdb

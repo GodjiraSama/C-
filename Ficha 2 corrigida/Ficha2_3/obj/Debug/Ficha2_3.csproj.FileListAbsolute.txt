@@ -1,0 +1,6 @@
+C:\Users\T0121198\source\repos\Ficha2\Ficha2_3\bin\Debug\Ficha2_3.exe.config
+C:\Users\T0121198\source\repos\Ficha2\Ficha2_3\bin\Debug\Ficha2_3.exe
+C:\Users\T0121198\source\repos\Ficha2\Ficha2_3\bin\Debug\Ficha2_3.pdb
+C:\Users\T0121198\source\repos\Ficha2\Ficha2_3\obj\Debug\Ficha2_3.csproj.CoreCompileInputs.cache
+C:\Users\T0121198\source\repos\Ficha2\Ficha2_3\obj\Debug\Ficha2_3.exe
+C:\Users\T0121198\source\repos\Ficha2\Ficha2_3\obj\Debug\Ficha2_3.pdb

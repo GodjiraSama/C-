@@ -1,0 +1,6 @@
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Exercicios\1.f\obj\Debug\1.f.csproj.CoreCompileInputs.cache
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Exercicios\1.f\bin\Debug\1.f.exe.config
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Exercicios\1.f\bin\Debug\1.f.exe
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Exercicios\1.f\bin\Debug\1.f.pdb
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Exercicios\1.f\obj\Debug\1.f.exe
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Exercicios\1.f\obj\Debug\1.f.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetaProject", "RetaProject\RetaProject.csproj", "{B97ADAB1-28B6-43D6-A6FF-9DCC7A8AD09D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B97ADAB1-28B6-43D6-A6FF-9DCC7A8AD09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97ADAB1-28B6-43D6-A6FF-9DCC7A8AD09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97ADAB1-28B6-43D6-A6FF-9DCC7A8AD09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97ADAB1-28B6-43D6-A6FF-9DCC7A8AD09D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB6896B5-E0F3-45D7-BB58-E75166A86A63}
+	EndGlobalSection
+EndGlobal

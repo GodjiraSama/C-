@@ -1,0 +1,7 @@
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Aluno\Aluno\Aluno\bin\Debug\Aluno.exe.config
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Aluno\Aluno\Aluno\bin\Debug\Aluno.exe
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Aluno\Aluno\Aluno\bin\Debug\Aluno.pdb
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Aluno\Aluno\Aluno\obj\Debug\Aluno.csproj.AssemblyReference.cache
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Aluno\Aluno\Aluno\obj\Debug\Aluno.csproj.CoreCompileInputs.cache
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Aluno\Aluno\Aluno\obj\Debug\Aluno.exe
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Aluno\Aluno\Aluno\obj\Debug\Aluno.pdb

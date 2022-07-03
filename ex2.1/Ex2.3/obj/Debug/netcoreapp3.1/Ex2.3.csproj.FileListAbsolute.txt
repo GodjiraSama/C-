@@ -1,0 +1,14 @@
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.3\bin\Debug\netcoreapp3.1\Ex2.3.exe
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.3\bin\Debug\netcoreapp3.1\Ex2.3.deps.json
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.3\bin\Debug\netcoreapp3.1\Ex2.3.runtimeconfig.json
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.3\bin\Debug\netcoreapp3.1\Ex2.3.runtimeconfig.dev.json
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.3\bin\Debug\netcoreapp3.1\Ex2.3.dll
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.3\bin\Debug\netcoreapp3.1\Ex2.3.pdb
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.3\obj\Debug\netcoreapp3.1\Ex2.3.csproj.AssemblyReference.cache
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.3\obj\Debug\netcoreapp3.1\Ex2.3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.3\obj\Debug\netcoreapp3.1\Ex2.3.AssemblyInfoInputs.cache
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.3\obj\Debug\netcoreapp3.1\Ex2.3.AssemblyInfo.cs
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.3\obj\Debug\netcoreapp3.1\Ex2.3.csproj.CoreCompileInputs.cache
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.3\obj\Debug\netcoreapp3.1\Ex2.3.dll
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.3\obj\Debug\netcoreapp3.1\Ex2.3.pdb
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.3\obj\Debug\netcoreapp3.1\Ex2.3.genruntimeconfig.cache

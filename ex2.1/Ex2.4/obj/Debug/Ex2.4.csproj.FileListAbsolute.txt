@@ -1,0 +1,7 @@
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.4\bin\Debug\Ex2._4.exe.config
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.4\bin\Debug\Ex2._4.exe
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.4\bin\Debug\Ex2._4.pdb
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.4\obj\Debug\Ex2.4.csproj.AssemblyReference.cache
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.4\obj\Debug\Ex2.4.csproj.CoreCompileInputs.cache
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.4\obj\Debug\Ex2._4.exe
+E:\Escola\GRSIP\Trabalhos\Programação\C#\ex2.1\Ex2.4\obj\Debug\Ex2._4.pdb

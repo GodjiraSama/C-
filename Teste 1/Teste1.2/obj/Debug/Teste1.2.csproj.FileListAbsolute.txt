@@ -1,0 +1,6 @@
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Teste 1\Teste1.2\bin\Debug\Teste1.2.exe.config
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Teste 1\Teste1.2\bin\Debug\Teste1.2.exe
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Teste 1\Teste1.2\bin\Debug\Teste1.2.pdb
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Teste 1\Teste1.2\obj\Debug\Teste1.2.csproj.CoreCompileInputs.cache
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Teste 1\Teste1.2\obj\Debug\Teste1.2.exe
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Teste 1\Teste1.2\obj\Debug\Teste1.2.pdb

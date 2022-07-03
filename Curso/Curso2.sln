@@ -1,0 +1,125 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EX_3_de_classes_e_arrays
+{
+    class Program
+    {
+        //Criação da classe UFCD
+        public class Ufcd
+        {
+            private int numero; 
+            private string nome;
+            private int duracao;
+
+            public int Numero { get => numero; set => numero = value; } // para ir buscar os dados do número de ufcds's
+            public string Nome { get => nome; set => nome = value; } // para ir buscar os dados do nome de ufcds's
+            public int Duracao { get => duracao; set => duracao = value; } // para ir buscar os dados da duração de ufcds's
+
+            public Ufcd() // padrão da classe UFCD
+            {
+                numero = 00;
+                nome = "N/A";
+                duracao = 00;
+            }
+            public Ufcd(int num, string name, int time) 
+            {
+                numero = num;
+                nome = name;
+                duracao = time;
+
+            }
+            public Ufcd(Ufcd u)
+            {
+                numero = u.numero;
+                nome = u.nome;
+                duracao = u.duracao;
+            }
+            public string tostring()
+            {
+                return "Dados da Ufcd:\nnumro:\t" + numero + "\nnome:\t" + (nome) + "\nduracao:\t" + (duracao) + "\n"; // Impressão da UFCD com os dados que colocamos
+            }
+
+
+        }
+        //Criação da classe Curso
+        class Curso
+        {
+            private string nome;
+            private int duracao;
+            private int codigo;
+            private List<Ufcd> ufcd = new List<Ufcd>(); //cada curso tem 3 Ufcds;
+
+            public string Nome { get => nome; set => nome = value; }
+            public int Duracao { get => duracao; set => duracao = value; }
+            public int Codigo { get => codigo; set => codigo = value; }
+            internal List<Ufcd> Ufcd { get => ufcd; set => ufcd = value; }
+
+            public Curso()
+            {
+                nome = "N/A";
+                duracao = 00;
+                codigo = 00;
+                for (int i = 0; i < 3; i++)
+                {
+                    ufcd.Add(new Ufcd());
+                }
+            }
+            public Curso(string name, int dur, int cod, List<Ufcd> UFCD)
+            {
+                nome = name;
+                duracao = dur;
+                codigo = cod;
+                ufcd = UFCD;
+
+
+            }
+
+            public string tostring()
+            {
+                return "\nDados do curso:\nnome";
+            }
+
+        }
+        static void Main(string[] args)
+        {
+            List<Ufcd> ufcd = new List<Ufcd>();
+            List<Curso> curso = new List<Curso>();
+            //Para criar x cursos;
+            Console.WriteLine("Oi galera quantos curso é que queres criar?\n");
+            int n = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < n; i++)
+            {
+                Console.WriteLine("Qual é o nome do " + (i + 1) + "º curso?\n");
+                string nome = Console.ReadLine();
+                //duracao do curso é um caso a parte
+
+                //duracao do curso
+                Console.WriteLine("Qual é o codigo do " + (i + 1) + "º curso?\n");
+                int cod = int.Parse(Console.ReadLine());
+                //Ufcd creation:
+                for (int j = 0; j < 3; j++)//corre 3 vezes para fazer as 3 ufcds;
+                {
+                    Console.WriteLine("Qual é o numero da " + (j + 1) + "ª ufcd?\n");
+                    int ufcdnumero = int.Parse(Console.ReadLine());
+
+                    Console.WriteLine("Qual é o nome da " + (j + 1) + "ª ufcd?\n");
+                    string ufcdnome = Console.ReadLine();
+
+                    Console.WriteLine("Qual é a duracao da " + (j + 1) + "ª ufcd?\n");
+                    int ufcdtime = int.Parse(Console.ReadLine());
+
+                    ufcd.Add(new Ufcd(ufcdnumero, ufcdnome, ufcdtime));
+                }
+                // a duracao so pode ser feitas apos as ufcds, logo nem é preciso fazer o prompt e peguntar ao user;
+                int time = (ufcd[0].Duracao + ufcd[1].Duracao + ufcd[2].Duracao);
+
+                curso.Add(new Curso(nome, time, cod, ufcd));
+            }
+        }
+    }
+}

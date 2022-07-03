@@ -1,0 +1,13 @@
+C:\Users\t0121189\Desktop\C#\RetaProject\RetaProject\bin\Debug\netcoreapp3.1\RetaProject.exe
+C:\Users\t0121189\Desktop\C#\RetaProject\RetaProject\bin\Debug\netcoreapp3.1\RetaProject.deps.json
+C:\Users\t0121189\Desktop\C#\RetaProject\RetaProject\bin\Debug\netcoreapp3.1\RetaProject.runtimeconfig.json
+C:\Users\t0121189\Desktop\C#\RetaProject\RetaProject\bin\Debug\netcoreapp3.1\RetaProject.runtimeconfig.dev.json
+C:\Users\t0121189\Desktop\C#\RetaProject\RetaProject\bin\Debug\netcoreapp3.1\RetaProject.dll
+C:\Users\t0121189\Desktop\C#\RetaProject\RetaProject\bin\Debug\netcoreapp3.1\RetaProject.pdb
+C:\Users\t0121189\Desktop\C#\RetaProject\RetaProject\obj\Debug\netcoreapp3.1\RetaProject.csprojAssemblyReference.cache
+C:\Users\t0121189\Desktop\C#\RetaProject\RetaProject\obj\Debug\netcoreapp3.1\RetaProject.AssemblyInfoInputs.cache
+C:\Users\t0121189\Desktop\C#\RetaProject\RetaProject\obj\Debug\netcoreapp3.1\RetaProject.AssemblyInfo.cs
+C:\Users\t0121189\Desktop\C#\RetaProject\RetaProject\obj\Debug\netcoreapp3.1\RetaProject.csproj.CoreCompileInputs.cache
+C:\Users\t0121189\Desktop\C#\RetaProject\RetaProject\obj\Debug\netcoreapp3.1\RetaProject.dll
+C:\Users\t0121189\Desktop\C#\RetaProject\RetaProject\obj\Debug\netcoreapp3.1\RetaProject.pdb
+C:\Users\t0121189\Desktop\C#\RetaProject\RetaProject\obj\Debug\netcoreapp3.1\RetaProject.genruntimeconfig.cache

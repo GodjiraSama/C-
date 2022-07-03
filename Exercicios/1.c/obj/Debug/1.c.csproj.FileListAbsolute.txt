@@ -1,0 +1,7 @@
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Exercicios\1.c\obj\Debug\1.c.csproj.AssemblyReference.cache
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Exercicios\1.c\obj\Debug\1.c.csproj.CoreCompileInputs.cache
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Exercicios\1.c\bin\Debug\1.c.exe.config
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Exercicios\1.c\bin\Debug\1.c.exe
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Exercicios\1.c\bin\Debug\1.c.pdb
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Exercicios\1.c\obj\Debug\1.c.exe
+E:\Escola\GRSIP\Trabalhos\Programação\C#\Exercicios\1.c\obj\Debug\1.c.pdb
